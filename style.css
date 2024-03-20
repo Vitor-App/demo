@@ -46,6 +46,13 @@ body {
   padding-bottom: 7px;
 }
 
+.display input{
+  border: 0;
+  outline: 0;
+  font-size: 24px;
+  
+}
+
 
 
   
